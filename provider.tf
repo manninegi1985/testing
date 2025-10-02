@@ -4,7 +4,7 @@ terraform {
     organization = "MANNINEGI" 
 
     workspaces { 
-      name = "S3-TEST" 
+      name = "testing" 
     } 
   } 
 
